@@ -3,9 +3,7 @@
 ✍ Author: Anand Kumar Pathak
 🌌 Project Vision
 
-<p align="center">
-  <img src="spotify_logo.png" width="200">
-</p>
+![Spotify Logo](spotify_logo.png)
 
 This project is designed to simulate a real-world data engineering + analytics workflow using a Spotify dataset.
 
