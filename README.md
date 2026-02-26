@@ -2,7 +2,10 @@
 🚀 Query Optimization | Window Functions | Analytical SQL
 ✍ Author: Anand Kumar Pathak
 🌌 Project Vision
-![Spotify Logo](spotify_logo.jpg)
+
+<p align="center">
+  <img src="spotify_logo.png" width="200">
+</p>
 
 This project is designed to simulate a real-world data engineering + analytics workflow using a Spotify dataset.
 
