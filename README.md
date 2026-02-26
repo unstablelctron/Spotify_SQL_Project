@@ -260,7 +260,9 @@ Data Analytics & SQL Optimization Enthusiast
 
 🌐 Connect With Me
 GitHub: https://github.com/unstablelctron
+
 LinkedIn: https://www.linkedin.com/in/anand-kumar-pathak-bb197326b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJd0ElX2MRVqycN4%2F%2BBx6Rg%3D%3D
+
 Portfolio: https://github.com/unstablelctron/unstablelctron-unstablelctron
 🎯 Why This Project Stands Out
 
